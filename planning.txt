@@ -1,0 +1,16 @@
+1. import and clean up character movement
+2. import and clean up dialogue/ui
+3. look up better way to store dialogue text
+4. import and clean up inventory menu/ui
+5. import and clean up sprite map (including wall collision
+6. set up "crash" timer
+7. create character sprites
+8. look into better 2d animation, actual character movement
+9. interactable menu (cursor moving between options)
+10. environment art (walls and floor)
+11. 2d lighting (how does THAT even work)
+12. map out ship (outside of unity)
+13. story planning
+14. better dialogue triggers outside of talking to people
+15. work on characters
+16. reassess list
